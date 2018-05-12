@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36843'
     url: http://www.gutenberg.org/2009/agents/36843
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34178#Gr-sk-Mythologi
 gutenberg_issued: '2010-10-31'
 gutenberg_type: Text
 identifiers:
